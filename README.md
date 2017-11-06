@@ -1,6 +1,4 @@
-# bannet.client
-
-> Gerardo Junior front-end test's
+# Vue api rest exemplo
 
 ## Build Setup
 
